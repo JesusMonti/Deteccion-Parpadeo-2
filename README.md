@@ -1,0 +1,2 @@
+# Deteccion-Parpadeo-2
+En este programa se realice la detección del parpadeo por medio del algoritmo de Viola-Jones. Esto programa se realiza como un soporte para un sistema de adquisición de señales EEG, para la obtención de la señal mfVEP. El programa se encarga de detectar cuando la persona realiza un parpadeo, al detectar el mismo se encarga de mandar un trigger al sistema de adquisición de datos para poder tener un control de en que momento se realizo el parpadeo y poder descarta esa fragmento de la señal en el procesado.
